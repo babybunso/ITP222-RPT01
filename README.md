@@ -29,11 +29,6 @@ The six core topics are:
 5. Cloud Computing in Google Cloud Platform (GCP)
 6. Modern API-First Stack (SaaS & Microservices Integration)
 
-Cloud Platforms:
-- Amazon Web Services (AWS)
-- Microsoft Azure
-- Google Cloud Platform (GCP)
-
 ---
 
 # Core Rule of Rotation
